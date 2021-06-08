@@ -1,0 +1,2 @@
+#bluetooth firmware file types
+type bt_firmware_file, file_type, contextmount_type, vendor_file_type;
